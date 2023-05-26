@@ -1,7 +1,7 @@
 # AlignmentESS
-This repository hosts the code for reproducing the SRM paper on the ESS data: Remizova A., Davidov E., Rudnev M. (2023) Religious involvement across Europe:  Examining its measurement comparability. Survey Research Methods, 17(1), 51-62. doi: 10.18148/srm/2023.v17i1.8011
+This repository hosts the code for reproducing the SRM paper on the ESS data: Remizova A., Davidov E., Rudnev M. (2023) Religious involvement across Europe:  Examining its measurement comparability. Survey Research Methods, 17(1), 51-62. [doi: 10.18148/srm/2023.v17i1.8011](https://doi.org/10.18148/srm/2023.v17i1.8011)
 
-All results can be found in the paper and at the SRM website: https://ojs.ub.uni-konstanz.de/srm/article/view/8011/7168 
+All results can be found in the paper and at the [SRM website](https://ojs.ub.uni-konstanz.de/srm/article/view/8011/7168)
 
 Abstract
 
